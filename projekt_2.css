@@ -1,0 +1,49 @@
+body {
+            font-size: 20px;
+			background-color:gray;
+        }
+
+input {
+            font-size: 20px;
+            background-color: #4cff00;
+            float: left;
+            width: 515px;
+            height: 60px;
+            border: 3px solid black;
+            text-align: center;
+            margin: 5px;
+        }
+
+h1
+{	
+	margin-top: 40px;
+	font-size: 48px;
+	text-shadow: 3px 3px 0 black;
+	text-align: center;
+	color:#ff6a00;
+}
+
+.pojemnik1
+{
+	height: auto;
+	margin: auto;
+	margin-top: 10px;
+	width: 50%;
+	display: flex;
+	text-align: center;
+	color:white;
+}
+
+.pojemnik2
+{
+	margin-top: 40px;
+	font-size: 20px;
+	text-align: center;
+	color:black;
+}
+
+.pojemnik3
+{
+	margin-top: 100px;
+	text-align: center;
+}
